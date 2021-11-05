@@ -1,2 +1,2 @@
 # web
-*Personal portfolio but will also be a template for others to you ♥
+*Personal portfolio but will also be a template for others to use ♥
